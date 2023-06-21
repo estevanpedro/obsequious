@@ -2,6 +2,7 @@ import logo from "./logo.png";
 import discordLogo from "./discord-logo.png";
 import twitterLogo from "./twitter-logo.png";
 import unisatLogo from "./unisat-logo.jpg";
+import githubLogo from "./github-logo.png";
 
 import "./App.css";
 
@@ -62,6 +63,19 @@ function App() {
               alt="Discord of the crypto obsequious bitcoin meme coin"
               width="40"
               height="40"
+            />
+          </a>
+          <a
+            href="https://github.com/estevanpedro/obsequious"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={githubLogo}
+              alt="Github of the crypto obsequious bitcoin meme coin"
+              width="40"
+              height="40"
+              className="App-logo"
             />
           </a>
         </div>
