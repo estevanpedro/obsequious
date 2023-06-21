@@ -27,7 +27,7 @@ function App() {
         </p>
 
         <a
-          href="https://unisat.io/brc20/OBSE"
+          href="https://unisat.io/brc20/COUR"
           target="_blank"
           rel="noopener noreferrer"
         >
