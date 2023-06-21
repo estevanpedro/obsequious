@@ -1,22 +1,70 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.png";
+import discordLogo from "./discord-logo.png";
+import twitterLogo from "./twitter-logo.png";
+import unisatLogo from "./unisat-logo.jpg";
+
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <img
+          src={logo}
+          alt="Crypto obsequious bitcoin meme coin"
+          width="200"
+          height="200"
+        />
+        <h1 className="App-title">OBSEQUIOUS</h1>
+        <p className="App-description">
+          In the fantastical dominion where <strong>Bitcoin</strong> reigns
+          supreme, Mr. Obsequious{" "}
+          <strong>traded courtesies for Bitcoins</strong>, with a pledge to
+          emblazon the digital tapestry of the Bitcoin universe with 21 million
+          electronic self-portraits, architecting the most captivating
+          pixel-populated gallery in the virtual sphere!
         </p>
+
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          href="https://unisat.io/brc20/OBSE"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <img
+            className="App-logo"
+            src={unisatLogo}
+            alt="Unisat of the crypto obsequious bitcoin meme coin"
+            width="80"
+            height="80"
+          />
         </a>
+
+        <div>
+          <a
+            href="https://discord.gg/TKMSdAnM85"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={discordLogo}
+              alt="Discord of the crypto obsequious bitcoin meme coin"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a
+            href="https://twitter.com/OBSEOrdinals"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={twitterLogo}
+              alt="Discord of the crypto obsequious bitcoin meme coin"
+              width="40"
+              height="40"
+            />
+          </a>
+        </div>
       </header>
     </div>
   );
