@@ -21,9 +21,9 @@ function App() {
           In the fantastical dominion where <strong>Bitcoin</strong> reigns
           supreme, Mr. Obsequious{" "}
           <strong>traded courtesies for Bitcoins</strong>, with a pledge to
-          emblazon the digital tapestry of the Bitcoin universe with 21 million
-          electronic self-portraits, architecting the most captivating
-          pixel-populated gallery in the virtual sphere!
+          emblazon the digital tapestry of the Bitcoin universe with 99.999
+          electronic self-portraits, architecting the most captivating meme-face
+          gallery in the orange sphere!
         </p>
 
         <a
