@@ -22,12 +22,12 @@ function App() {
           supreme, Mr. Obsequious{" "}
           <strong>traded courtesies for Bitcoins</strong>, with a pledge to
           emblazon the digital tapestry of the Bitcoin universe with 21 millions
-          electronic self-portraits, architecting the most captivating meme-face
-          gallery in the orange sphere!
+          electronic self-portraits , architecting the most captivating
+          meme-face gallery in the orange sphere!
         </p>
 
         <a
-          href="https://unisat.io/brc20/ORBS"
+          href="https://unisat.io/brc20/OBSE"
           target="_blank"
           rel="noopener noreferrer"
         >

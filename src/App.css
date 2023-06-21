@@ -15,7 +15,8 @@
 .App-description {
   color: black;
   font-size: 16px;
-  max-width: 700px;
+  max-width: 720px;
+  padding: 0 20px;
 }
 .App-title {
   color: #ff9000;
